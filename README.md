@@ -17,6 +17,12 @@ This app simulates a small manufacturing workflow where:
 - System stores timestamped logs with operator identity
 - Admin monitors all activity from one dashboard
 
+  ADMIN DASHBOARD
+  <img width="1899" height="873" alt="image" src="https://github.com/user-attachments/assets/83dee0be-196c-48aa-b129-1c170db76d6f" />
+  OPERATOR DASHBOARD
+  <img width="1889" height="858" alt="image" src="https://github.com/user-attachments/assets/1cff3ef8-7951-4e5d-a469-f053a067996d" />
+
+
 ## Core Roles
 
 ### Admin
